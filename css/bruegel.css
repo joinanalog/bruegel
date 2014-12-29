@@ -12,6 +12,7 @@ html, body, .container, #map {
 
 .leaflet-container {
   font: 12px/1.5 "Roboto Slab", Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 209, 27);
 }
 
 .leaflet-popup-content-wrapper {
