@@ -1,0 +1,12 @@
+# Site settings
+title: Netherlandish Proverbs – Pieter Bruegel the Elder – An Analog Project
+og:
+  image: "http://fewfe.com"
+  description: >
+    In 1559 the Flemish artist Pieter Bruegel the Elder painted the panel Nederlandse Spreekwoorden
+    including on it literal illustrations of more than a hundred Dutch language proverbs. We've created
+    this interactive version of the analog painting so you can playfully discover the tons of popular
+    wisdom buried on it. Enjoy!
+
+# Build settings
+markdown: kramdown
