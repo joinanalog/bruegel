@@ -137,7 +137,7 @@ map.setMaxBounds(new L.LatLngBounds(southWest, northEast));
 map.setView(map.unproject([3600, 2600], 17), 15);
 
 L.tileLayer('/images/tiles/{z}/bruegel_{x}_{y}.jpg', {
-  attribution: 'Made with ♥ by <a href="analog.is">Analog</a> (Actual love not the unicode character of a heart)',
+  attribution: 'Made with ♥ by <a href="http://analog.is">Analog</a> (Actual love not the unicode character of a heart)',
 }).addTo(map);
 
 var markers = []
